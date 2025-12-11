@@ -154,14 +154,9 @@ You may use **0 for empty cells**.
 
 In *Manual Play Mode*, you will be asked:
 
-```
-Your move: 
-```
-
 You must enter **three numbers**:
-
 ```
-row  column  number
+Your move: row  column  number
 ```
 
 For example:
